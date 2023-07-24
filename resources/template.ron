@@ -1,7 +1,7 @@
 Templates (
     entities: [
         Template (
-            enity_type: Item,
+            entity_type: Item,
             name: "Healing Potion",
             glyph: '!',
             levels: [0, 1, 2],
@@ -9,7 +9,7 @@ Templates (
             frequency: 2
         ),
         Template (
-            enity_type: Item,
+            entity_type: Item,
             name: "Dungeon Map",
             glyph: '{',
             levels: [0, 1, 2],
@@ -17,7 +17,7 @@ Templates (
             frequency: 1
         ),
         Template (
-            enity_type: Enemy,
+            entity_type: Enemy,
             name: "Goblin",
             glyph: 'g',
             levels: [0, 1, 2],
@@ -25,7 +25,7 @@ Templates (
             frequency: 3
         ),
         Template (
-            enity_type: Enemy,
+            entity_type: Enemy,
             name: "Orc",
             glyph: 'o',
             levels: [0, 1, 2],
